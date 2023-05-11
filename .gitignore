@@ -1,2 +1,5 @@
 secret/*
 secret
+computervision/ch1/train
+computervision/ch1/valid
+*.csv
