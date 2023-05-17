@@ -1,9 +1,6 @@
 {
   "python.formatting.provider": "black",
-  "jupyter.kernels.filter": [
-    {
-      "path": "c:\\Users\\flyin\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
-      "type": "pythonEnvironment"
-    }
+  "jupyter.kernels.excludePythonEnvironments": [
+    "c:\\Users\\flyin\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
   ]
 }
